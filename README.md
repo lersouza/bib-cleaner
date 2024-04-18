@@ -1,6 +1,6 @@
 # Bib Cleaner
  
-BibCleaner is a very simple script that takes a LaTeX source file and multiple BibTex files to produces a new BibTex file containing only used references.
+BibCleaner is a very simple script that takes a LaTeX source file and multiple BibTex files to produce a new BibTex file containing only used references.
 
 To run it, type:
 
